@@ -60,8 +60,8 @@ bool displayStateOn = true;
 
 //***********************************************************************
 // ARDUINO CONECTIONS.
-// Pin numbers for the 7 segment display:
 
+// Pin numbers for the 7 segment display:
 static const uint8_t CLK  = 11;
 static const uint8_t DIO = 10;
 // Pin numbers for LEDs
